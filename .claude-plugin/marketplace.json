@@ -1,0 +1,17 @@
+{
+  "name": "claude-token-usage",
+  "owner": {
+    "name": "Jean-Olivier Weber",
+    "url": "https://github.com/joweber"
+  },
+  "plugins": [
+    {
+      "name": "token-usage",
+      "source": "./",
+      "description": "Plan quotas and what is left, then projects, conversations and heaviest requests as an interactive sunburst. Reads local transcripts only, sends nothing."
+    }
+  ],
+  "metadata": {
+    "description": "DaisyDisk-style sunburst of your Claude Code token usage since the last quota reset."
+  }
+}

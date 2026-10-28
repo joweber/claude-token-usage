@@ -1,0 +1,10 @@
+{
+  "name": "token-usage",
+  "version": "1.0.0",
+  "description": "DaisyDisk-style sunburst of your Claude Code token usage since the last quota reset: plan quotas, then projects, conversations and the heaviest requests. Everything is read locally, nothing is sent anywhere.",
+  "author": { "name": "Jean-Olivier Weber", "url": "https://github.com/joweber" },
+  "homepage": "https://github.com/joweber/claude-token-usage",
+  "repository": "https://github.com/joweber/claude-token-usage",
+  "license": "MIT",
+  "keywords": ["tokens", "usage", "quota", "sunburst", "daisydisk", "analytics"]
+}
